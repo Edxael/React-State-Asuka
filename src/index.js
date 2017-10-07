@@ -11,7 +11,7 @@ const GatherComp = () => {
       <h1>React State Practice</h1>
       <Pilot />
       <br/>
-      <h4><a href="https://github.com/Edxael/React-Calc"target="_blank" >GitHub Code LINK</a></h4>
+      <h4><a href="https://github.com/Edxael/React-State-Asuka"target="_blank" >GitHub Code LINK</a></h4>
       <p>By: <a href="https://www.mycode.website/" target="_blank">Edmundo Rubio</a></p>
     </div>
   )
